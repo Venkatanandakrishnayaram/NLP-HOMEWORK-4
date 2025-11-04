@@ -22,8 +22,8 @@ All codes are written in **PyTorch** and tested on **Google Colab**.
 ### Goal
 Train a small RNN that predicts the next character given previous characters.
 
-### 🔧 Model Architecture
-### ⚙️ Training Setup
+### Model Architecture
+### Training Setup
 - **Hidden size:** 128  
 - **Sequence length:** 80  
 - **Batch size:** 64  
